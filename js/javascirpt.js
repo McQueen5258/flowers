@@ -1,4 +1,4 @@
 $("html").hide();
-$("html").ready(function(){
-    $("html").show();
-});
+// $("html").ready(function(){
+//     $("html").show();
+// });
